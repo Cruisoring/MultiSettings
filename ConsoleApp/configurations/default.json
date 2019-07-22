@@ -1,0 +1,8 @@
+{
+  "ConnectionString": "Default connection settings",
+  "Url": "https://dev.sandbox.com",
+  "Credential": {
+    "UserName": "developer",
+    "Password": "password-dev"
+  }
+}

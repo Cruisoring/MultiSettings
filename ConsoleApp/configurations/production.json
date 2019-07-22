@@ -1,0 +1,8 @@
+{
+  "ConnectionString": "Connection settings for Prod Environment",
+  "Url": "https://production.com",
+  "Credential": {
+    "UserName": "administrator",
+    "Password": "production-password"
+  }
+}

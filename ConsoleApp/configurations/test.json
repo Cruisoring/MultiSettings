@@ -1,0 +1,4 @@
+{
+  "ConnectionString": "Test connection settings",
+  "Url": "https://dev.sandbox.com" 
+}
